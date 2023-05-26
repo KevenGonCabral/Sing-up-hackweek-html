@@ -4,7 +4,7 @@
 # Hackweek sing-up screen
 ## 💻 Project
 
-.
+![GIF logScream](https://github.com/KevenGonCabral/Sing-up-hackweek-html/assets/116415920/944c35c7-3aab-4326-8dec-1c93c375acd0)
 
 ### 🔗 Links
 
