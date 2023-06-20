@@ -14,8 +14,6 @@
 
 
 ## 🔨 Tools 
-- Semantic HTML5 markup
-- CSS custom properties
 - [Canva](https://www.canva.com/) - Art Design
 - [HTML](https://www.w3.org/html/) - HTMl MarkLanguage
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - CSS MarkLanguage
